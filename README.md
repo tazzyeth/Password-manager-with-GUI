@@ -17,8 +17,9 @@ when you run this program you will get 5 options:
                                  5. Exit the program
 
 INSTALATION
-1. unzip the font and install it (optional)
-2. run main.py
+1. unzip the fonts and install them (optional)
+2. make sure you have required modules installed (pygame,numpy etc)
+4. run main.py
 
 Requirements
 python, text editor. (VScode)
